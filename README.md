@@ -1,1 +1,1 @@
-# Praktivan-zadatak
+# Manual Testing
